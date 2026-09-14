@@ -1,0 +1,11 @@
+# arquivos originais (o site usa as versões otimizadas em assets/)
+*.pdf
+/IMG 1.jpg
+/IMAGE 2.jpg
+/IMG 3 NOIVOS DE PAPEL HIGIENICO .jpg
+/AQUARELA IGREJA.png
+
+# código do Apps Script contém a senha da página /confirmados
+google-apps-script/
+
+.DS_Store
